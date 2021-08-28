@@ -22,11 +22,10 @@ zip(
     'file_2.pdf',
     // (List of files and folder to zip)
   ],
-  'test.zip',
-  // (output file name)
+  'test.zip',  // (output file name)
   {
-    workingDirectory: __dirname
-    // (Folder contains files to zip)
+    password: 'any password', // (zip password)
+    workingDirectory: __dirname, // (Folder contains files to zip)
   }
 )
 
@@ -43,11 +42,10 @@ zip(
     'file_2.pdf',
     // (List of files and folder to zip)
   ],
-  'test.zip',
-  // (output file name)
+  'test.zip',  // (output file name)
   {
-    workingDirectory: __dirname
-    // (Folder contains files to zip)
+    password: 'any password', // (zip password)
+    workingDirectory: __dirname, // (Folder contains files to zip)
   }
 )
 
