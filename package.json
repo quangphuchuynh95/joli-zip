@@ -1,5 +1,5 @@
 {
-  "name": "simplezip",
+  "name": "joli-zip",
   "version": "1.0.0",
   "description": "Zip files or folder",
   "main": "index.js",

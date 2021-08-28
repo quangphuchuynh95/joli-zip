@@ -13,7 +13,7 @@
 ## Usage
 ### Typescript 
 ```typescript
-import { zip } from 'simplezip';
+import { zip } from 'joli-zip';
 import { join } from 'path';
 
 zip(
@@ -34,7 +34,7 @@ zip(
 
 ### Javascript
 ```javascript
-const { zip } = require('simplezip');
+const { zip } = require('joli-zip');
 const { join } = require('path')
 
 zip(
