@@ -8,7 +8,7 @@
     - **Ubuntu**: run `sudo apt-get install zip`
     - **CentOS**: run `sudo yum install zip`
     - **MacOS**: do nothing because zip is installed on MacOS by default
-2. Run `yarn add simplezip` or `npm i simplezip`
+2. Run `yarn add joli-zip` or `npm i joli-zip`
 
 ## Usage
 ### Typescript 
